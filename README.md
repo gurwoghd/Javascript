@@ -25,3 +25,40 @@ NaN - not a number <br>
 0 - zero <br>
 -0 - negative zero <br>
 0n - BigInt zero <br>
+
+## Loop
+for statement <br>
+do ... while statement <br>
+while statement <br>
+labeld statement => <b> give a name (label) to a statement </b> <br>
+
+---------- <br>
+label: <br>
+\t statement <br>
+\----------
+
+break <br>
+- break "label" : break a specific statement with the label
+- break : break the enclosing statement
+
+continue <br>
+- continue "label" : continue a specific statement with the label
+- continue : continue the enclosing statement
+
+for ... in statment => <b> interates property names </b> <br>
+
+--------- <br>
+for(variable in object) <br>
+\t statement <br>
+\---------
+
+for ... of statement => <b> interates property values </b> <br>
+
+------- <br>
+for(variable of object) <br>
+\t statement <br>
+\-------- <br>
+
+
+
+
